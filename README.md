@@ -1,7 +1,6 @@
-# robofriends
-Tutorial for React
-To run the project:
+# robofriends (using Redux)
+- robofriends is a Front-End application which filters the gallery of cards, loaded with data fetched from an external source, based on the user’s input. 
+- Created the UI with the React library and solved the state-management issues using Redux Toolkit.
+- Realized the version control using Git.
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+[Test the app](https://smartbrain-aspy.onrender.com/) 👈🏻
