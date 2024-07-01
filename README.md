@@ -1,10 +1,8 @@
-# robofriends (using Redux)
-- robofriends is a Front-End application which filters the gallery of cards, loaded with data fetched from an external source, based on the user’s input. 
-- Created the UI with the React library and solved the state-management issues using Redux.
-- Realized the version control using Git.
-
-## How to try this app?
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+JavaScript app simulating data insertion into an SQL table with secure password hashing using bcryptjs.
+## Want to give it a try?
+Follow these steps:
+1. Install Node.js and npm if you haven't.
+2. Clone this repository.
+3. Run `npm install`.
+4. Run `browserify script.js -o bundle.js`.
+5. Open `index.html` file in your browser.
