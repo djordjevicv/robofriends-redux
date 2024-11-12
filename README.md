@@ -1,8 +1,10 @@
-JavaScript app simulating data insertion into an SQL table with secure password hashing using bcryptjs.
+# robofriends (using Redux)
+- Robofriends is a front-end application which, based on user's input, filters the gallery of cards loaded with data fetched from an external API.
+- Created the UI with the React library and solved the state-management issues using Redux Toolkit.
+- Realized the version control using Git.
+
 ## Want to give it a try?
-Follow these steps:
-1. Install Node.js and npm if you haven't.
-2. Clone this repository.
-3. Run `npm install`.
-4. Run `browserify script.js -o bundle.js`.
-5. Open `index.html` file in your browser.
+
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
